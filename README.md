@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drchhun" alt="drchhun" /></a> </p>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [https://chunmega.com/](https://chunmega.com/)
+- 👨‍💻 All of my projects are available at [https://chunmega.com/](https://chunmega.syz/)
 
-- 📝 I regularly write articles on [https://chunmega.com/blog](https://chunmega.com/blog)
-
-- 💬 Ask me about **laravel, react**
+- 💬 Ask me about **laravel, react, next, java**
 
 - 📫 How to reach me **chhunkim394@gmail.com**
 
