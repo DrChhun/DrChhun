@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [https://chunmega.com/](https://chunmega.syz/)
+- 👨‍💻 All of my projects are available at [https://chhunmega.xyz](https://chunmega.xyz/)
 
 - 💬 Ask me about **laravel, react, next, java**
 
