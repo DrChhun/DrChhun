@@ -1,25 +1,22 @@
 <h3 align="left">Hi 👋, I'm KimChhun</h3>
+
 <h4 align="left">A web developer from Cambodia.</h4>
-<!-- https://e1.pxfuel.com/desktop-wallpaper/774/739/desktop-wallpaper-64-bit-32-bit.jpg -->
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=drchhun&label=Profile%20views&color=0e75b6&style=flat" alt="drchhun" /> 
 </p>
 
-<!--
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=drchhun" alt="drchhun" />
-  </a> 
-</p>
--->
+---
 
-- 🌱 I’m currently learning **Spring**
+### 🌱 I'm currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [https://chhunmega.xyz](https://chhunmega.xyz/)
+### 👨‍💻 All of my projects are available at [chhunmega.xyz](https://chhunmega.xyz)
 
-- 💬 Ask me about **Laravel, React, Next, Java**
+### 💬 Ask me about **Laravel, React, Next, Java**
 
-- 📫 How to reach me **chhunkim394@gmail.com**
+### 📫 How to reach me **chhunkim394@gmail.com**
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -38,9 +35,6 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
   </a> 
-<!--   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>  -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
@@ -55,14 +49,17 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drchhun&show_icons=true&locale=en&layout=compact" alt="drchhun" />
+---
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drchhun&show_icons=true&locale=en&layout=compact&theme=default" alt="drchhun" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drchhun&show_icons=true&locale=en" alt="drchhun" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drchhun&show_icons=true&locale=en&theme=default" alt="drchhun" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drchhun&" alt="drchhun" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drchhun&theme=default" alt="drchhun" />
 </p>
+
